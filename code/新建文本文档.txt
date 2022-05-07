@@ -5,3 +5,7 @@ hhh
 sss
 dddd
 SDDD
+三步
+add
+commit
+push
