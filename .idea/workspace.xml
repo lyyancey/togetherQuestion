@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="f5ef0e87-3408-4937-a0d7-551d6cf7dc41" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/code/新建文本文档.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/document/说明.txt" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,14 +15,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/document/说明.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="108">
-                <caret line="4" column="3" lean-forward="true" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
+                <caret line="4" column="3" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
               </first_editor>
               <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/code/剑指offer05 替换空格">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="594">
+              <caret line="22" selection-start-line="22" selection-end-line="22" />
             </state>
           </provider>
         </entry>
@@ -42,6 +49,7 @@
         <option value="$PROJECT_DIR$/code/新建文本文档.txt" />
         <option value="$PROJECT_DIR$/document/123.md" />
         <option value="$PROJECT_DIR$/document/说明.md" />
+        <option value="$PROJECT_DIR$/code/剑指offer05 替换空格" />
       </list>
     </option>
   </component>
@@ -64,6 +72,11 @@
             <path>
               <item name="togetherQuestion" type="b2602c69:ProjectViewProjectNode" />
               <item name="togetherQuestion" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="togetherQuestion" type="b2602c69:ProjectViewProjectNode" />
+              <item name="togetherQuestion" type="462c0819:PsiDirectoryNode" />
+              <item name="code" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="togetherQuestion" type="b2602c69:ProjectViewProjectNode" />
@@ -109,7 +122,7 @@
       <updated>1651916443645</updated>
       <workItem from="1651916444852" duration="790000" />
       <workItem from="1651918264735" duration="1904000" />
-      <workItem from="1652011242388" duration="1366000" />
+      <workItem from="1652011242388" duration="1631000" />
     </task>
     <task id="LOCAL-00001" summary="第二次提交">
       <created>1651918334157</created>
@@ -139,14 +152,21 @@
       <option name="project" value="LOCAL" />
       <updated>1651919582724</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="剑指offer05 替换空格">
+      <created>1652013814169</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1652013814169</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4060000" />
+    <option name="totallyTimeSpent" value="4325000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12106667" />
@@ -188,7 +208,8 @@
     <MESSAGE value="第三次提交" />
     <MESSAGE value="第四次提交" />
     <MESSAGE value="1" />
-    <option name="LAST_COMMIT_MESSAGE" value="1" />
+    <MESSAGE value="剑指offer05 替换空格" />
+    <option name="LAST_COMMIT_MESSAGE" value="剑指offer05 替换空格" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/README.md">
@@ -215,9 +236,16 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="108">
-            <caret line="4" column="3" lean-forward="true" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
+            <caret line="4" column="3" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code/剑指offer05 替换空格">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
         </state>
       </provider>
     </entry>
