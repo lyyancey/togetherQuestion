@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f5ef0e87-3408-4937-a0d7-551d6cf7dc41" name="Default Changelist" comment="修改了gitignore文件，去掉了idea的配置文件夹" />
+    <list default="true" id="f5ef0e87-3408-4937-a0d7-551d6cf7dc41" name="Default Changelist" comment="更新MarkDown文件">
+      <change afterPath="$PROJECT_DIR$/code/AllPathsFromSourceToTarget.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/CheapestFlightsWithinKStops.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/togetherQuestion.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/togetherQuestion.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -82,13 +90,22 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "project.structure.last.edited": "SDKs",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "E:/code/togetherQuestion",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "reference.projectsettings.compiler.javacompiler"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.DungeonGame">
+  <component name="RunManager" selected="Application.CheapestFlightsWithinKStops">
+    <configuration name="CheapestFlightsWithinKStops" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CheapestFlightsWithinKStops" />
+      <module name="togetherQuestion" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="DungeonGame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DungeonGame" />
       <module name="togetherQuestion" />
@@ -106,10 +123,12 @@
     </configuration>
     <list>
       <item itemvalue="Application.Unnamed" />
+      <item itemvalue="Application.CheapestFlightsWithinKStops" />
       <item itemvalue="Application.DungeonGame" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CheapestFlightsWithinKStops" />
         <item itemvalue="Application.DungeonGame" />
       </list>
     </recent_temporary>
@@ -128,6 +147,9 @@
       <workItem from="1651916444852" duration="790000" />
       <workItem from="1651918264735" duration="1904000" />
       <workItem from="1652011242388" duration="2311000" />
+      <workItem from="1652083757339" duration="115000" />
+      <workItem from="1652141843389" duration="1356000" />
+      <workItem from="1652143225384" duration="7465000" />
     </task>
     <task id="LOCAL-00001" summary="第二次提交">
       <created>1651918334157</created>
@@ -185,7 +207,14 @@
       <option name="project" value="LOCAL" />
       <updated>1652083477921</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="更新MarkDown文件">
+      <created>1652083854283</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1652083854283</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -248,7 +277,8 @@
     <MESSAGE value="剑指offer05 替换空格" />
     <MESSAGE value="两道动态规划的题目" />
     <MESSAGE value="修改了gitignore文件，去掉了idea的配置文件夹" />
-    <option name="LAST_COMMIT_MESSAGE" value="修改了gitignore文件，去掉了idea的配置文件夹" />
+    <MESSAGE value="更新MarkDown文件" />
+    <option name="LAST_COMMIT_MESSAGE" value="更新MarkDown文件" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/README.md">
