@@ -15,7 +15,7 @@ public class RegularExpressionMatching {
     }
 
     private boolean dp(String s, int i, String p, int j) {
-        int m = s.length(), n = s.length();
+        int m = s.length(), n = p.length();
         if(j == n){
             return i == m;
         }

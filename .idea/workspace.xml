@@ -1,19 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="f5ef0e87-3408-4937-a0d7-551d6cf7dc41" name="Default Changelist" comment="两道dfs">
-      <change afterPath="$PROJECT_DIR$/src/main/java/RegularExpressionMatching.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="f5ef0e87-3408-4937-a0d7-551d6cf7dc41" name="Default Changelist" comment="重构成Meven项目">
+      <change afterPath="$PROJECT_DIR$/src/test/java/RegularExpressionMatchingTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/togetherQuestion.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/togetherQuestion.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/code/AllPathsFromSourceToTarget.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/AllPathsFromSourceToTarget.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/code/CheapestFlightsWithinKStops.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/CheapestFlightsWithinKStops.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/code/DungeonGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DungeonGame.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/code/FreedomTrail.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/FreedomTrail.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/code/剑指offer05 替换空格" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/剑指offer05 替换空格" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/code/剑指offer10 斐波那契数列" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/剑指offer10 斐波那契数列" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/document/YanceyResolveProblemGuide.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/RegularExpressionMatching.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/RegularExpressionMatching.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -110,7 +107,12 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;reference.projectsettings.compiler.javacompiler&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.CheapestFlightsWithinKStops">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\code\togetherQuestion\src\main\java" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.RegularExpressionMatchingTest.testRegularExpressionMatching">
     <configuration name="CheapestFlightsWithinKStops" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CheapestFlightsWithinKStops" />
       <module name="togetherQuestion" />
@@ -133,13 +135,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="RegularExpressionMatchingTest.testRegularExpressionMatching" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="togetherQuestion" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="RegularExpressionMatchingTest" />
+      <option name="METHOD_NAME" value="testRegularExpressionMatching" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="Application.Unnamed" />
       <item itemvalue="Application.CheapestFlightsWithinKStops" />
       <item itemvalue="Application.DungeonGame" />
+      <item itemvalue="JUnit.RegularExpressionMatchingTest.testRegularExpressionMatching" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.RegularExpressionMatchingTest.testRegularExpressionMatching" />
         <item itemvalue="Application.CheapestFlightsWithinKStops" />
         <item itemvalue="Application.DungeonGame" />
       </list>
@@ -163,7 +177,8 @@
       <workItem from="1652141843389" duration="1356000" />
       <workItem from="1652143225384" duration="7543000" />
       <workItem from="1652250264792" duration="1856000" />
-      <workItem from="1652252254003" duration="342000" />
+      <workItem from="1652252254003" duration="1430000" />
+      <workItem from="1652254402569" duration="2123000" />
     </task>
     <task id="LOCAL-00001" summary="第二次提交">
       <created>1651918334157</created>
@@ -235,7 +250,21 @@
       <option name="project" value="LOCAL" />
       <updated>1652166627703</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="重构">
+      <created>1652252619584</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1652252619584</updated>
+    </task>
+    <task id="LOCAL-00012" summary="重构成Meven项目">
+      <created>1652252669916</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1652252669916</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -300,7 +329,9 @@
     <MESSAGE value="修改了gitignore文件，去掉了idea的配置文件夹" />
     <MESSAGE value="更新MarkDown文件" />
     <MESSAGE value="两道dfs" />
-    <option name="LAST_COMMIT_MESSAGE" value="两道dfs" />
+    <MESSAGE value="重构" />
+    <MESSAGE value="重构成Meven项目" />
+    <option name="LAST_COMMIT_MESSAGE" value="重构成Meven项目" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/README.md">
