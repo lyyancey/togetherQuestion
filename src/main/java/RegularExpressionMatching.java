@@ -35,14 +35,15 @@ public class RegularExpressionMatching {
             return map.get(key);
         }
         boolean res = false;
+        boolean b = j < n - 1 && p.charAt(j + 1) == '*';
         if(s.charAt(i) == p.charAt(j) || p.charAt(j) == '.'){
-            if(j<n-1 && p.charAt(j+1) == '*'){
+            if(b){
                 res = dp(s, i, p, j+2) || dp(s, i+1, p, j);
             }else{
                 res = dp(s, i+1, p, j+1);
             }
         }else{
-            if(j<n-1 && p.charAt(j+1) == '*'){
+            if(b){
                 res = dp(s, i, p, j+2);
             }else{
                 return false;
