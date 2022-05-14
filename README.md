@@ -10,4 +10,4 @@
 |  3   | [Cheapest Flights Within K Stops](https://leetcode.cn/problems/cheapest-flights-within-k-stops/) | Medium | [Java](./src/main/java/CheapestFlightsWithinKStops.java) | 图，贪心 |
 |  4   | [All Paths From Source To Target](https://leetcode.cn/problems/all-paths-from-source-to-target/) | Medium | [Java](./src/main/java/AllPathsFromSourceToTarget.java)  | 图，dfs  |
 
-[面试没有经](./src/main/resources/记录面试题.md)
+[面试没有经](src/main/resources/360运维一面.md)
