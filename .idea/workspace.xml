@@ -4,16 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f5ef0e87-3408-4937-a0d7-551d6cf7dc41" name="Default Changelist" comment="字节一面&#10;&#10;# Conflicts:&#10;#&#9;.idea/misc.xml&#10;#&#9;.idea/workspace.xml&#10;#&#9;code/剑指offer05 替换空格&#10;#&#9;code/剑指offer10 斐波那契数列&#10;#&#9;src/main/java/剑指offer05 替换空格&#10;#&#9;src/main/java/剑指offer05.java&#10;#&#9;src/main/java/剑指offer10 斐波那契数列&#10;#&#9;src/main/java/剑指offer10.java">
-      <change afterPath="$PROJECT_DIR$/src/main/resources/字节测开一面.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/网易测开一面.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/说明.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/剑指offer05 替换空格" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/剑指offer10 斐波那契数列" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/记录面试题.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/360运维一面.md" afterDir="false" />
-    </list>
+    <list default="true" id="f5ef0e87-3408-4937-a0d7-551d6cf7dc41" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -33,7 +24,8 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="UPDATE_TYPE" value="REBASE" />
+    <option name="UPDATE_CHANGES_POLICY" value="SHELVE" />
+    <option name="UPDATE_TYPE" value="MERGE" />
     <option name="ROOT_SYNC" value="DONT_SYNC" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -92,13 +84,6 @@
               <item name="togetherQuestion" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="togetherQuestion" type="b2602c69:ProjectViewProjectNode" />
-              <item name="togetherQuestion" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="togetherQuestion" type="b2602c69:ProjectViewProjectNode" />
@@ -305,11 +290,18 @@
       <option name="project" value="LOCAL" />
       <updated>1652258251262</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="1">
+      <created>1652526605237</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1652526605237</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7584000" />
+    <option name="totallyTimeSpent" value="8113000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -384,7 +376,6 @@
     <MESSAGE value="第二次提交" />
     <MESSAGE value="第三次提交" />
     <MESSAGE value="第四次提交" />
-    <MESSAGE value="1" />
     <MESSAGE value="剑指offer05 替换空格" />
     <MESSAGE value="两道动态规划的题目" />
     <MESSAGE value="修改了gitignore文件，去掉了idea的配置文件夹" />
@@ -394,7 +385,8 @@
     <MESSAGE value="重构成Meven项目" />
     <MESSAGE value="更新了部分题和README" />
     <MESSAGE value="面试" />
-    <option name="LAST_COMMIT_MESSAGE" value="面试" />
+    <MESSAGE value="1" />
+    <option name="LAST_COMMIT_MESSAGE" value="1" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/README.md">
